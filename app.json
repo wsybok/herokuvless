@@ -1,5 +1,5 @@
 {
-  "name": "heroku-vless",
+  "name": "herokuvless",
   "description": "Deploy vless on Heroku.",
   "keywords": [
     "vless"
